@@ -24,3 +24,5 @@ Minecraft를 실행하면 행운의 블록을 사용할 수 있습니다.
 
 ## 라이선스
 이 프로젝트는 MIT 라이선스를 따릅니다.
+
+<span style="color:red"># 버그 있음!!</span>
